@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "E3LGUA88X3.org.reactjs.native.example.rnpoc",
+                "paths": [ "/reset-password", "/", "*" ]
+            }
+        ]
+    }
+}
